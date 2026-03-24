@@ -1,5 +1,5 @@
 # Automating-employee-data
-https://drive.google.com/drive/folders/1vcuaO-1T4ko7HIf_q-ICNM34k11DGISN?usp=drive_link
+
 This project automates the processing and analysis of employee data using Python in Google Colab.
 The system reads employee information from an Excel file, performs automatic calculations such as salary analysis and bonus calculation, and generates an updated report.
 
